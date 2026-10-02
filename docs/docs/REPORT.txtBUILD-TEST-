@@ -1,0 +1,19 @@
+test_offline_video_render (test_pipeline.MediaIntegrationTests) ... Pipeline stopped: ValueError: Transcript/translation needs native review. Run approve after checking it
+ok
+test_cloud_opt_in (test_pipeline.UnitTests) ... ok
+test_missing_rights_stops_prepare (test_pipeline.UnitTests) ... Pipeline stopped: ValueError: Confirm you have dubbing rights and participant consent with --rights-confirmed
+ok
+test_nonfinite_rejected (test_pipeline.UnitTests) ... ok
+test_overlap_rejected (test_pipeline.UnitTests) ... ok
+test_planner_explicitly_unimplemented (test_pipeline.UnitTests) ... ok
+test_review_invalidated (test_pipeline.UnitTests) ... ok
+test_timestamps (test_pipeline.UnitTests) ... ok
+test_translation_response_contract (test_pipeline.UnitTests) ... ok
+test_url_input_rejected (test_pipeline.UnitTests) ... ok
+
+----------------------------------------------------------------------
+Ran 10 tests in 0.531s
+
+OK
+/tmp/tmpeb4gw1q6/job/project.json
+/tmp/tmpeb4gw1q6/job/TEST-TONE-not-assamese.mp4
